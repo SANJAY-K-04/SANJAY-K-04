@@ -1,56 +1,51 @@
-# 💡 SANJAY K | Mechatronics Engineer 👨‍🔧
+<h2 align="left">Hi 👋! My name is Sanjay K and I'm a Mechatronics Engineer from India</h2>
 
-![Hello World GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+###
 
-🌟 **Hello, world!** Welcome to my GitHub profile.  
-I am a **Mechatronics Engineer** passionate about integrating technology, mechanics, and creativity to build innovative solutions. 🚀  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjayK04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayK04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
----
+###
 
-## 🛠️ Skills & Expertise  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
-### ⚙️ Mechatronics & IoT  
-- 🖥️ **IoT Development & Automation**  
-- 🧩 **PLC Programming & Industrial Automation**  
-- 🔌 **Embedded Systems** *(Microcontrollers)*  
+###
 
-### 💻 Software Development  
-- 🌐 **Front-End Web Development** *(HTML, CSS, JS)*  
-- 📱 **Android App Development**  
-- 🐍 **Python | C Programming**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" height="30" alt="AutoCAD logo" />
+</div>
 
-### 🎨 CAD & Design  
-- 📐 **AutoCAD | Blender | TinkerCAD**  
+###
 
-![Tech Skills GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
+<div align="left">
+  <a href="mailto:sanjay20046984@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ksanjay2004">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+</div>
 
----
+###
 
-## 🌟 Projects & Highlights  
+<br clear="both">
 
-- ✨ **IoT-based Attendance System**  
-- 🧘‍♂️ **Smart Yoga Mat with AI Capabilities**  
-- 🤖 **Smart Transbot with Robotic Arm**  
-- 🕯️ **Line Follower Robot**  
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-![Projects GIF](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)  
-
----
-
-## 📈 Current Goals  
-
-- 🚀 Exploring **Advanced Robotics & Automation**  
-- 📱 Building **Cutting-Edge Android Apps**  
-- 🌐 Gaining expertise in **AI Integration with IoT**  
-
-![Goals GIF](https://media.giphy.com/media/3o7TKPdUkkb5n4r3l6/giphy.gif)  
-
----
-
-## 📬 Let's Connect!  
-
-- 📨 [**Email**](mailto:sanjay20046984@gmail.com)  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/ksanjay2004)  
-
-![Connect GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
-
+###
