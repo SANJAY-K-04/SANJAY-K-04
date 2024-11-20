@@ -1,4 +1,4 @@
-# 💡 Sanjay K. | Mechatronics Engineer 👨‍🔧
+# 💡 SANJAY K | Mechatronics Engineer 👨‍🔧
 
 🌟 **Hello, world!** Welcome to my GitHub profile. I am a **Mechatronics Engineer** passionate about integrating technology, mechanics, and creativity to build innovative solutions. 🚀
 
@@ -9,7 +9,7 @@
 ### ⚙️ Mechatronics & IoT
 - 🖥️ IoT Development & Automation
 - 🧩 PLC Programming & Industrial Automation
-- 🔌 Embedded Systems (ESP32, ESP8266)
+- 🔌 Embedded Systems (Microcontrollers)
 
 ### 💻 Software Development
 - 🌐 Front-End Web Development (HTML, CSS, JS)
@@ -24,9 +24,8 @@
 ## 🌟 Projects & Highlights
 - **IoT-based Attendance System** ✨
 - **Smart Yoga Mat with AI Capabilities** 🧘‍♂️
-- **Mobile Robot with Robotic Arm** 🤖
-- **Warehouse Drone with ROS 2** 🚁
-- **Polythene-to-Candle Recycling Prototype** 🕯️
+- **Smart transbot with Robotic Arm** 🤖
+- **Line follower robot** 🕯️
 
 ---
 
@@ -38,6 +37,5 @@
 ---
 
 ## 📬 Let's Connect!
-- 🌐 [Portfolio Website](#)  
-- 📨 [Email](mailto:sanjayk@example.com)  
+- 📨 [Email](mailto:sanjay20046984@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/sanjayk)  
