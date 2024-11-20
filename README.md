@@ -38,4 +38,4 @@
 
 ## 📬 Let's Connect!
 - 📨 [Email](mailto:sanjay20046984@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/sanjayk)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ksanjay2004)  
