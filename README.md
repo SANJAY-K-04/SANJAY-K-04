@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I am a **Mechatronics Engineer** passionate about 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Autodesk_Fusion_360_Logo.svg/2048px-Autodesk_Fusion_360_Logo.svg.png" alt="fusion360" width="40" height="40" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
@@ -29,7 +31,7 @@ Welcome to my GitHub profile! I am a **Mechatronics Engineer** passionate about 
 #### ⚙️ **Mechatronics & IoT**  
 - 🖥️ IoT Development & Automation  
 - 🧩 PLC Programming & Industrial Automation  
-- 🔌 Embedded Systems (ESP32, ESP8266)  
+- 🔌 Embedded Systems (Arduino, ESP32, ESP8266, Raspberry pi)  
 
 #### 💻 **Software Development**  
 - 🌐 Front-End Web Development (HTML, CSS, JavaScript)  
@@ -37,18 +39,19 @@ Welcome to my GitHub profile! I am a **Mechatronics Engineer** passionate about 
 - 🐍 Python | C Programming  
 
 #### 🎨 **CAD & Design**  
-- 📐 AutoCAD | Blender | TinkerCAD  
+- 📐 AutoCAD | Blender | TinkerCAD | Fusion 360 | Proteus 
 
 ---
 
 ### 🌟 **Projects & Highlights**  
 
-- ✨ **IoT-based Attendance System**  
-- 🧘‍♂️ **Smart Yoga Mat with AI Capabilities**  
-- 🤖 **Smart transbot with Robotic Arm**  
-- 🚁 **Line follower robot**  
+- **IoT-based Attendance System**  
+- **Smart Yoga Mat with AI Capabilities**  
+- **Smart transbot with Robotic Arm**  
+- **Line follower robot**
+- **Real-Time Driver Fatigue Detection with Adaptive Alert Mechanisms Using CNN and IoT Integration**
+- **Multi-Fruit Juice Dispensing Machine with Refrigerated Storage** 
   
-
 ---
 
 ### 📈 **Current Goals**  
