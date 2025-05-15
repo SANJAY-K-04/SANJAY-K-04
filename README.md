@@ -16,13 +16,19 @@ Welcome to my GitHub profile! I am a **Mechatronics Engineer** passionate about 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
+  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/autocad-badge-75x75.png" height="40" alt="Auto CAD logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Autodesk_Fusion_360_Logo.svg/2048px-Autodesk_Fusion_360_Logo.svg.png" alt="fusion360" width="40" height="40" />
+  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/fusion-badge-75x75.png" alt="fusion360" width="40" height="40" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+  <img width="12" />
+  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/tinkercad-2023-simplified-badge-75x75.png" alt="thinkercad" width="40" height="40" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="proteus" width="40" height="40" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
   <img width="12" />
