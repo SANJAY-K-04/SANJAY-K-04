@@ -1,6 +1,6 @@
 # SANJAY K
 
-🌟 **Hello, world!**  
+🌟 **Hi guys!**  
 Welcome to my GitHub profile! I am a **Mechatronics Engineer** passionate about integrating technology, mechanics, and creativity to build innovative solutions. 🚀  
 
 ---
