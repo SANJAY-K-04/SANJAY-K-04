@@ -16,7 +16,7 @@ I am a **Mechatronics Engineer** passionate about integrating **technology**, **
 | 🌐 **Web Development** | <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="35"/> |
 | 🎨 **Design & CAD** | <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/autocad-badge-75x75.png" height="35" title="AutoCAD"/> <img src="https://skillicons.dev/icons?i=blender&theme=dark" height="35"/> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/fusion-badge-75x75.png" height="35" title="Fusion 360"/> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/tinkercad-2023-simplified-badge-75x75.png" height="35" title="Tinkercad"/> |
 | ⚡ **Electronics & Simulation** | <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" height="35" title="Proteus"/> |
-| 🛠️ **Tools** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="35" title="MATLAB"/> <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="35"/> |
+| 🛠️ **Tools** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="35" title="MATLAB"/> <img src="https://github.com/user-attachments/assets/98718272-2524-4a31-be46-6cfd7d5581a9" height="35"/>|
 
 #### ⚙️ **Embedded Systems & IoT**
 - 🖥️ IoT Development & Automation
