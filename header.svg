@@ -1,0 +1,33 @@
+<svg width="750" height="220" viewBox="0 0 750 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .line { opacity: 0; animation: fadeUp 0.8s ease forwards; }
+      .l1  { animation-delay: 0.3s; }
+      .l2  { animation-delay: 1.2s; }
+      .l3  { animation-delay: 2.1s; }
+      .l4a { animation-delay: 3.0s; }
+      .l4b { animation-delay: 3.6s; }
+      .l5  { animation-delay: 4.2s; }
+      .l6  { animation-delay: 5.0s; }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      .name  { font-family: Georgia, serif; font-size: 40px; font-weight: bold; fill: #c9a84c; letter-spacing: 8px; }
+      .sub   { font-family: Georgia, serif; font-size: 13px; fill: #e8d5a3; letter-spacing: 2px; }
+      .div   { font-family: Georgia, serif; font-size: 10px; fill: #5a4820; letter-spacing: 2px; }
+      .tag   { font-family: Georgia, serif; font-size: 13px; fill: #c9a84c; letter-spacing: 1px; }
+      .quote { font-family: Georgia, serif; font-size: 11.5px; fill: #9a7830; letter-spacing: 1px; font-style: italic; }
+    </style>
+  </defs>
+  <rect width="750" height="220" fill="#0d0d0d"/>
+  <line x1="40" y1="8"   x2="710" y2="8"   stroke="#c9a84c" stroke-width="0.5" opacity="0.25"/>
+  <line x1="40" y1="212" x2="710" y2="212" stroke="#c9a84c" stroke-width="0.5" opacity="0.25"/>
+  <text x="375" y="55"  text-anchor="middle" class="name line l1">SANJAY K</text>
+  <text x="375" y="78"  text-anchor="middle" class="sub  line l2">Mechatronics Engineer  ·  IoT  ·  Robotics  ·  AI</text>
+  <text x="375" y="97"  text-anchor="middle" class="div  line l3">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+  <text x="375" y="120" text-anchor="middle" class="tag  line l4a">Welcome to my GitHub Profile 🚀</text>
+  <text x="375" y="143" text-anchor="middle" class="tag  line l4b">Mechatronics Engineer  ·  Builder  ·  Innovator</text>
+  <text x="375" y="166" text-anchor="middle" class="tag  line l5">Turning Ideas into Intelligent Machines</text>
+  <text x="375" y="200" text-anchor="middle" class="quote line l6">◈  Engineer by discipline.  Creator by passion.  Innovator by choice.  ◈</text>
+</svg>
